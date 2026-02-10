@@ -18,7 +18,19 @@ Atualmente aprimorando minhas habilidades com tecnologias que conheço e estudan
 
 ---
 
-## 🎯 Working
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NathanMarques01&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NathanMarques01&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMarques01&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NathanMarques01&icon=2&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+ 🎯 Working
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
+
