@@ -1,4 +1,7 @@
-## 🌐 Linguagens e Ferramentas
+<h1 align="center">Hi 👋🏻, I'm Nathan Marques</h1>
+<h3 align="center">Web Developer</h3>
+
+## 🌐 Languages and Tools
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -13,9 +16,9 @@
 
 ## Nathan Marques
 
-Estudante de Análise e Desenvolvimento de sistemas pela Universidade Anhembi Morumbi.
+Student of Systems Analysis and Development at Anhembi Morumbi University.
 
-Atualmente aprimorando minhas habilidades com tecnologias que conheço e estudando novas ferramentas.
+Currently improving my skills with technologies I know and studying new tools.
 
 ---
 
